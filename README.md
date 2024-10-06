@@ -37,10 +37,12 @@ python est_curv.py --model_name ResNet18 --dataset cifar10
 
 ## Paper
 ```
-@article{kafuman2023data,
-  title={Data Representations' Study of Latent Image Manifolds},
-  author={Kafuman, Ilya and Aznecot, Omri},
-  journal={arXiv preprint arXiv:2305.19730},
-  year={2023}
+@inproceedings{kaufman2023data,
+  title={Data representations’ study of latent image manifolds},
+  author={Kaufman, Ilya and Azencot, Omri},
+  booktitle={International Conference on Machine Learning},
+  pages={15928--15945},
+  year={2023},
+  organization={PMLR}
 }
 ```
